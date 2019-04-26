@@ -24,7 +24,7 @@ DORQ is a website for ostentatious orcs, excellent elves, and gregarious gnomes 
 ![Image of Dungeon Master Page](https://github.com/michelledlee/DORQ/blob/master/public/img/screenshot1.PNG?raw=true)
 
 ## Demo Gifs
-**Login and Browse Events**  
+**Login and Join a Partys**  
 ![Explore Dungeon Master Page](https://github.com/michelledlee/DORQ/blob/master/public/img/gifit_1554440112971.gif?raw=true)
 
 ## Tech Requirements
